@@ -53,6 +53,7 @@ Unfortunately the API only provides cards and card amounts as well as basic acco
 The tool does not require you to make use of the magic items function, as forcing this would be annoying to those who want to save specific items. however if used it will aim to make the most efficient choices when consuming.
 
 By default the tool aims to show you the maximum possible level of your account given its current state, however you can also use this to check the cost needed for individual levels
+
 <img width="249" height="95" alt="image" src="https://github.com/user-attachments/assets/7689e0d6-0ff3-43f1-8fce-248129eb6419" />
 
 
@@ -68,6 +69,7 @@ Why did i make this? I have been playing the game for abit of time with friends 
 
 
    
+
 
 
 
